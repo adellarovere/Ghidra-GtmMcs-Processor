@@ -15,7 +15,7 @@ Copy this folder to \<GhidraInstallDir\>\Ghidra\Processors\\**GtmMcs** folder an
 First of all you need the binary file of the MCS project.
 I dumped the binary file directly from Lauterbach Trace32, as my Aurix project contains the C-Array data:
 
-![Saving binary file from Lauterbach Trace32](MCS_Disassembler_0.png)
+![Saving binary file from Lauterbach Trace32](MCS_Disassembler_0.PNG)
 
 ### Analyze in Ghidra
 
